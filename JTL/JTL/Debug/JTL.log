@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  vector_type_descriptor.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\vector_type_descriptor.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  json.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\json.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  class_descriptor.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\class_descriptor.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  map_type_descriptor.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\map_type_descriptor.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  json_writer.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\json_writer.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  json_reader.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\json_reader.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  json_lexer.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\json_lexer.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  array_type_descriptor.cpp
+c:\users\every\downloads\c++ project\jtl\jtl\source\array_type_descriptor.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

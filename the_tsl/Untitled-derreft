@@ -1,0 +1,38 @@
+Reading Objects :
+
+The inverse of writing process, the process consists of constructing objects 
+of a given type from a JSON-conform stream.
+
+
+The operation can be devided into 2 phases :
+A lexical analysis phase : Using a lexer object that reads and tokenizes the stream;
+An object constrcution phase : using the reader object that performs matches and 
+	retrieves tokens on demand from the lexer, the properties are then checked and 
+	assinged to the (empty) object
+
+Notes :
+
+	The sequence of characters in the stream is read character by character 
+	while the token are being constructed at the same time.
+
+	Using the provided stream, the reader object performes matches against 
+	the symbols of JSON's syntax and retrieves property names and values via 
+	a set of functions
+
+	The match/advance operations are similar to context free grammar,
+
+For example
+	1 - match opening bracket
+	2 - read property name
+	3 - a - if property name is different from array class member
+		then it's an error
+	3 - b - else then content of array is read recursuively 
+	using the same reading process (inner objects...)
+
+
+
+
+
+
+
+

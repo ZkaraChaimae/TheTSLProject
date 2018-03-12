@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  vector_type_descriptor.cpp
+  map_type_descriptor.cpp
+  json_writer.cpp
+  json_reader.cpp
+  json_lexer.cpp
+  json.cpp
+  class_descriptor.cpp
+  array_type_descriptor.cpp
+  Generating Code...
+json_reader.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+json_lexer.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+class_descriptor.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  json++.vcxproj -> C:\Users\every\Downloads\c++ project\JTL\Debug\json++.lib

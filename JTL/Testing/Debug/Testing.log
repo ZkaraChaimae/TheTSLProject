@@ -1,0 +1,9 @@
+﻿  Etudiant.cpp
+c:\users\every\downloads\c++ project\jtl\testing\etudiant.h(14): error C2065: 'first': undeclared identifier
+c:\users\every\downloads\c++ project\jtl\testing\etudiant.h(15): error C2065: 'last': undeclared identifier
+  Generating Code...
+  Compiling...
+  application.cpp
+c:\users\every\downloads\c++ project\jtl\testing\etudiant.h(14): error C2065: 'first': undeclared identifier
+c:\users\every\downloads\c++ project\jtl\testing\etudiant.h(15): error C2065: 'last': undeclared identifier
+  Generating Code...
